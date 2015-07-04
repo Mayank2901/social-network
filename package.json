@@ -1,0 +1,10 @@
+{
+  "name": "myproject",
+  "description": "my first project",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "mysql": "^2.7.0"
+  }
+}
